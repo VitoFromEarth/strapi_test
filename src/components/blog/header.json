@@ -1,0 +1,25 @@
+{
+  "collectionName": "components_blog_headers",
+  "info": {
+    "displayName": "Header"
+  },
+  "options": {},
+  "attributes": {
+    "Address": {
+      "type": "customField",
+      "customField": "plugin::address-selection.address"
+    },
+    "Docs": {
+      "type": "customField",
+      "customField": "plugin::component-docs.component-docs",
+      "options": {
+        "url": "/lololo"
+      }
+    },
+    "Country": {
+      "type": "customField",
+      "customField": "plugin::country-select.country"
+    }
+  },
+  "config": {}
+}
